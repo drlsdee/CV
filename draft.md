@@ -16,7 +16,7 @@ Highly accomplished Infrastructure & Automation Engineer with **20+ years of IT 
 
 ### 💼 Professional Experience
 
-**[GoldApple]** | Yekaterinburg, Russia (Remote/Hybrid) — Yerevan, Armenia (Remote)
+**[NDA]** | Yekaterinburg, Russia (Remote/Hybrid) — Yerevan, Armenia (Remote)
 *Senior Infrastructure & Automation Engineer* | [September, 2020] — [September, 2026]  
 *Company Overview: A major enterprise retail & FMCG corporation with 15,000+ active users and distributed infrastructure.*
 
