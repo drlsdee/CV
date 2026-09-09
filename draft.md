@@ -4,7 +4,7 @@ Yerevan, Armenia (Open to Relocation / Remote)
 [Email] | [Phone Number] | [LinkedIn URL]
 
 ### 🎯 Professional Summary
-Highly accomplished Infrastructure & Automation Engineer with **20+ years of IT experience**, including 6 years optimizing enterprise systems for a major corporation with 15,000+ active users. Expert in **Identity & Access Management (IAM)**, Directory Services, and Infrastructure-as-Code (IaC). Proven track record in designing high-availability architectures, automating complex user lifecycles, and implementing event-driven security automation (Graylog + GitLab CI). Strong background in cross-platform tools and open-source contribution.
+Highly accomplished Infrastructure & Automation Engineer with **20+ years of IT experience**, including 6 years optimizing enterprise systems for a major corporation with thousands active users. Expert in **Identity & Access Management (IAM)**, Directory Services, and Infrastructure-as-Code (IaC). Proven track record in designing high-availability architectures, automating complex user lifecycles, and implementing event-driven security automation (Graylog + GitLab CI). Strong background in cross-platform tools and open-source contribution.
 
 ### 🛠️ Technical Skills
 * **Core Automation & Dev:** PowerShell (Advanced Scripting, Module Development, Toolmaking), .NET (C# for binary PS modules), Git.
@@ -18,7 +18,7 @@ Highly accomplished Infrastructure & Automation Engineer with **20+ years of IT 
 
 **[NDA]** | Yekaterinburg, Russia (Remote/Hybrid) — Yerevan, Armenia (Remote)
 *Senior Infrastructure & Automation Engineer* | [September, 2020] — [September, 2026]  
-*Company Overview: A major enterprise retail & FMCG corporation with 15,000+ active users and distributed infrastructure.*
+*Company Overview: A major enterprise retail & FMCG corporation.*
 
 * **IAM Architecture & Automation:** Designed, developed, and maintained a custom Identity Management (IDM) system using PowerShell. In the end of lifecycle successfully refactored the monolithic codebase into compiled **.NET binary modules**, significantly improving performance and security. This solution was later adopted as the core engine for a commercial IAM product across international branches.
 * **Security Automation & GitOps:** Designed and implemented a real-time self-healing mechanism for critical Active Directory security groups. Configured **Graylog** to trigger Webhooks to **GitLab CI pipelines** upon group modification events, automatically reverting unauthorized changes instantly, bypassing native AdminSDHolder polling limitations.
