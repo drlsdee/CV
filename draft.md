@@ -27,7 +27,7 @@ Highly accomplished Infrastructure & Automation Engineer with **20+ years of IT 
 * **Enterprise Deployments Support:** Provided subject-matter expertise during **Microsoft Dynamics 365 AX** deployments, focusing on Group Managed Service Accounts (gMSA) provisioning, designing AD PKI certificate templates, and debugging/patching deployment scripts.
 * **Enterprise PKI Architecture:** Designed, architected, and deployed a multi-tier Enterprise PKI infrastructure (Root, Intermediate, and Issuing CAs) for the CIS domain. This architecture served as the corporate golden standard and was successfully replicated by international engineering teams across Middle East and China branches.
 * **Directory Integrations & Performance:** Optimized complex LDAP query structures and identity federation across various enterprise platforms (including Jira, Confluence, MS Exchange, GitLab CI, Nexus Repository, and TestIT TMS), significantly improving authentication response times and reducing domain controller load.
-* **Infrastructure Management:** Managed core Active Directory lifecycle, advanced Group Policies (GPO), and resource allocation within vCenter and vCloud Director private cloud environments for 15,000+ active endpoints.
+* **Infrastructure Management:** Managed core Active Directory lifecycle, advanced Group Policies (GPO), and resource allocation within vCenter and vCloud Director private cloud environments.
 
 ### 🐙 Open Source Contributions
 * **kcat (formerly kafkacat) — C++ Apache Kafka utility:** 
